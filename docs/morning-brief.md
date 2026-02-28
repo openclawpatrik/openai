@@ -5,7 +5,12 @@ Denna dagliga brief sammanfattar aktuell status och planering. Fyll i varje sekt
 ## Datum
 Skriv aktuellt datum (ÅÅÅÅ‑MM‑DD).
 
-## Lägesrapport
+## Behöver från Patrik
+- Topp 3 prioriteringar (1–3)
+- Hårda deadlines kommande 7 dagar? (ja/nej + datum)
+- Blockerare som stoppar något just nu? (ja/nej + vad)
+
+# Lägesrapport
 - Vad har gjorts sedan senaste briefen? Summera arbetet och eventuella framsteg.
 
 ## Plan för idag
